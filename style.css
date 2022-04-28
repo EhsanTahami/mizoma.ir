@@ -381,7 +381,7 @@ i {
     display: block;
     position: absolute;
     z-index: 999;
-    background: url(/pic/icons8-menu-64.png);
+    background: url(pic/icons8-menu-64.png);
     width: 2rem;
     aspect-ratio: 1;
     top: 2rem;
