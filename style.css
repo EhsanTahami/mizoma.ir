@@ -265,12 +265,12 @@ a {
 
 }
 
-.header-nav {
+/* .header-nav {
   max-width: 1100px;
   height: 140px;
   display: flex;
 
-}
+} */
 
 .header-nav ul {
   display: flex;
